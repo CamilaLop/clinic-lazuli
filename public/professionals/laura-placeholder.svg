@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" fill="none">
+  <rect width="800" height="1000" rx="48" fill="#DAD9DC"/>
+  <circle cx="400" cy="320" r="130" fill="#F7F3EE"/>
+  <path d="M210 770C240 640 330 550 400 550C470 550 560 640 590 770" fill="#F7F3EE"/>
+  <text x="400" y="900" text-anchor="middle" font-family="Georgia, serif" font-size="40" fill="#181D3A">Substitua pela foto de Laura</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" fill="none">
+  <rect width="1200" height="900" fill="#FFF8F1"/>
+  <circle cx="260" cy="220" r="160" fill="#96B8DD" fill-opacity="0.22"/>
+  <circle cx="940" cy="650" r="170" fill="#DA9B5C" fill-opacity="0.20"/>
+  <rect x="180" y="145" width="320" height="560" rx="38" fill="#181D3A"/>
+  <rect x="560" y="210" width="430" height="470" rx="38" fill="#EAD7C5"/>
+  <text x="240" y="270" fill="#FDEDDD" font-family="Georgia,serif" font-size="54">Wellness</text>
+  <text x="240" y="332" fill="#FDEDDD" font-family="Georgia,serif" font-size="54">touch</text>
+  <text x="240" y="416" fill="#FFFFFF" fill-opacity="0.7" font-family="Arial,sans-serif" font-size="24">Substitua por imagem ou composição autoral</text>
+  <text x="620" y="340" fill="#181D3A" font-family="Georgia,serif" font-size="48">Sofisticação</text>
+  <text x="620" y="405" fill="#181D3A" font-family="Georgia,serif" font-size="48">com suavidade</text>
+</svg>

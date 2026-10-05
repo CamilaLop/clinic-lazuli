@@ -1,0 +1,6 @@
+import { siteLinks } from "@/data/site-data";
+import { CTAButton } from "./cta-button";
+import { Reveal } from "./reveal";
+export function LocationSection({ openSchedule }: { openSchedule: () => void }) {
+  return <section id="local" className="location-section"><div className="location-grid page-width"><Reveal><div className="location-copy"><p className="eyebrow">04 / Nosso encontro</p><h2>Perto de você.<br /><em>No seu tempo.</em></h2><p>Um espaço de cuidado em Manguinhos, Armação dos Búzios. Também realizamos atendimentos online, conforme a disponibilidade de cada profissional.</p><address>Av. Dois, 55 · Manguinhos<br />German Saúde, 2º andar, sala 4<br />Armação dos Búzios · RJ</address><a href={siteLinks.maps} target="_blank" rel="noopener noreferrer" className="text-link">Como chegar <span aria-hidden>↗</span></a></div></Reveal><Reveal delay={0.06}><div className="location-agenda"><span className="agenda-mark" aria-hidden>✳</span><p className="eyebrow">Um primeiro passo possível</p><h3>Você pode<br /><em>começar por aqui.</em></h3><p>Escolha uma profissional e conte qual dia funciona para você. Nossa equipe entra em contato para combinar o atendimento.</p><CTAButton label="Consultar agenda" onClick={openSchedule} primary light /><span className="agenda-caption">Presencial & online / Lazuli</span></div></Reveal></div></section>;
+}
