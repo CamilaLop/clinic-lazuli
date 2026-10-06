@@ -6,3 +6,6 @@ out/
 !.env.local
 *.tsbuildinfo
 .DS_Store
+.vercel/
+Lazuli-corrigir-validacao-agenda/
+backup-validacao-agenda-*/
